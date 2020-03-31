@@ -5,7 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
-
+car_signs/data/
 # Distribution / packaging
 .Python
 build/
